@@ -8,4 +8,12 @@ Some of the problem statements for analytics and visualizations:\
 3)Age group wise most common cause among males and females\
 4)Total number of suicides per year per state\
 5)Male suicide rate vs female suicide rate\
-6)Which state has more suicides over the entire period
+6)Which state has more suicides over the entire period\
+7)group by state,year,causes, count of suicides\
+8)group by agegroup, gender, count of suicides\
+9)select agegroup,gender,count(total) from suicides group by agegroup,gender\
+10)state wise most common cause\
+11)State has more suicides among females and males\
+12)suicides count cause wise(causes)\
+13) least cause for suicide\
+14)List out various Categories of suicidal causes\
