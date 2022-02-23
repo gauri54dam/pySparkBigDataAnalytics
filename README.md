@@ -16,4 +16,4 @@ Some of the problem statements for analytics and visualizations:\
 11)State has more suicides among females and males\
 12)suicides count cause wise(causes)\
 13) least cause for suicide\
-14)List out various Categories of suicidal causes\
+14)List out various Categories of suicidal causes
